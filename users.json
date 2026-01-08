@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "hash": "$2y$10$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "role": "admin"
+    },
+    "ManhDung": {
+        "hash": "$2y$10$tpS.1mCKxkqf9iFjwxZUiuq5nbZhckYQ5sEdvB6Ri5VUH4Kch19Ye",
+        "role": "user"
+    },
+    "vumanhdung": {
+        "hash": "$2y$10$PIcH9681QoX0QPXM8w.hyuV2tpqOrWc9bHcPzehWOGPGh3HdDmk.O",
+        "role": "admin"
+    },
+    "manhdungvu": {
+        "hash": "$2y$10$WBgnURzmUpZ197Igxxy76OmyffbJkueRXj4UEWzwvq\/rAB6QJlh12",
+        "role": "admin"
+    },
+    "dungdoan": {
+        "hash": "$2y$10$QEJic6QLQ1PYVgRwBeIBWOjrkkkoZEJTUTsAcpVv55kKFfiYASLNW",
+        "role": "user"
+    },
+    "manhdung8386": {
+        "hash": "$2y$10$hexQkiCPSIKIPi2pNKHjPu.uoZIHOV9WGNsL7TgEZmkhJmomt6i92",
+        "role": "user"
+    },
+    "Mạnh Dũng": {
+        "hash": "$2y$10$Ti57AvurCIqUMLcNZxgcC.pmDPXuFw8qYdsbauRNsjPqc.YBxUvoe",
+        "role": "user"
+    }
+}
